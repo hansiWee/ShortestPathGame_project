@@ -132,8 +132,8 @@ public class ResultsWindow extends javax.swing.JFrame {
         jPanel.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 20, -1, -1));
 
         jLabel5.setBackground(new java.awt.Color(255, 51, 0));
-        jLabel5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/shortestpathgame/Pic 4.jpeg"))); // NOI18N
-        jPanel.add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 10, 210, 390));
+        jLabel5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/shortestpathgame/picture/Pic1.jpeg"))); // NOI18N
+        jPanel.add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 210, 390));
 
         jPanel1.add(jPanel, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 20, 520, 390));
 
